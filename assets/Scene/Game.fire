@@ -192,7 +192,7 @@
       "array": [
         0,
         0,
-        267.60184976939155,
+        268.46787517317597,
         0,
         0,
         0,
@@ -283,8 +283,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
-      "height": 0
+      "width": 720,
+      "height": 1280
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -418,14 +418,31 @@
     "_id": "115sgQdltDaJHEceBMlAMB"
   },
   {
-    "__type__": "36c383h+MNENJ2Xj3jaLxgL",
+    "__type__": "cc.Widget",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 6
     },
     "_enabled": true,
-    "_id": "c65IUhtTdAkYyOMQn/3dhl"
+    "alignMode": 1,
+    "_target": null,
+    "_alignFlags": 45,
+    "_left": 0,
+    "_right": 0,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 720,
+    "_originalHeight": 1280,
+    "_id": "d3TYm90+FDsKzg4unGgjqb"
   },
   {
     "__type__": "cc.Node",
@@ -467,7 +484,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        718,
+        720,
         0,
         0,
         0,
@@ -525,14 +542,31 @@
     "_id": "57omXg2v9FPqlnCkV+rFZf"
   },
   {
-    "__type__": "36c383h+MNENJ2Xj3jaLxgL",
+    "__type__": "cc.Widget",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 9
     },
     "_enabled": true,
-    "_id": "2a1PgqNvxOtr3dq4UI34YL"
+    "alignMode": 1,
+    "_target": null,
+    "_alignFlags": 45,
+    "_left": 720,
+    "_right": -720,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 720,
+    "_originalHeight": 1280,
+    "_id": "beIEik4WdHQ7Ohisls0exJ"
   },
   {
     "__type__": "398bcLG2DxGMIAEHvrm3jI2",
@@ -1430,6 +1464,9 @@
       "__id__": 19
     },
     "_enabled": true,
+    "player_rig": null,
+    "gameOverNode": null,
+    "settingNode": null,
     "maxScore": {
       "__id__": 25
     },
